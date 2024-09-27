@@ -1,0 +1,8 @@
+# Ignore common large file types
+*.zip
+*.tar.gz
+*.csv.gz
+*.mp4
+*.mov
+*.iso
+*.exe
